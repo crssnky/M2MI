@@ -1,0 +1,24 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "M2MI",
+    "Description": "Material to Material Instance. ",
+    "Category": "Material",
+    "CreatedBy": "crssnky",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "EnabledByDefault": false,
+    "CanContainContent": false,
+    "IsBetaVersion": true,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "M2MI",
+            "Type": "Editor",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
