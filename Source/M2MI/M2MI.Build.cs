@@ -26,13 +26,15 @@ namespace UnrealBuildTool.Rules
 				new string[]
 				{
 					"Core",
+					"CoreUObject",
 					"UnrealEd",
-					"LevelEditor",
 					"Slate",
 					"SlateCore",
-					"MainFrame",
-					"InputCore",
 					// ... add other public dependencies that you statically link with here ...
+					"UMG",
+					"PropertyEditor",
+					"Engine",
+					"AssetRegistry",
 				}
 				);
 
